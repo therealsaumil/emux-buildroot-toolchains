@@ -1,5 +1,7 @@
 # emux-buildroot-toolchains
-Precompiled toolchains for ARM and MIPS
+by Saumil Shah
+
+Precompiled toolchains for ARM and MIPS with GCC 4.3.x and uClibc
 
 ## How to build from source
 
